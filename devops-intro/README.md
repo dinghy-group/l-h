@@ -1,6 +1,10 @@
 # Session number 01
+- Module 01 – DevOps Introduction
+- Module 02 – DevOps Roadmap
+- Roadmap devOps 2026
+
 - Homework - see the Podcast
-  - https://www.youtube.com/watch?v=SCZQFmFDugQ  
+  - TBD
 
 - Install GitBash, WSL , OracleVM 
 - Make sure you have GitHub user
